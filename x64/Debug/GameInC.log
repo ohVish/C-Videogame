@@ -1,0 +1,125 @@
+﻿  graphics.c
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(130,57): warning C4047: 'función': 'LPDWORD' es distinto en los niveles de direccionamiento indirecto de 'DWORD'
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(130,48): warning C4024: 'ReadFile': tipos distintos para el parámetro formal y el parámetro real 4
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(346,75): warning C4267: '=': conversión de 'size_t' a 'LONG'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(347,60): warning C4267: '=': conversión de 'size_t' a 'LONG'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(364,52): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(367,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(370,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(373,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(376,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(379,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(382,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(385,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(388,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(391,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(394,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(397,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(400,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(403,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(406,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(409,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(412,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(415,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(418,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(421,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(424,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(427,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(430,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(433,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(436,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(439,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(442,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(445,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(448,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(451,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(454,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(457,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(460,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(463,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(466,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(469,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(472,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(475,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(478,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(481,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(484,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(487,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(490,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(493,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(496,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(499,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(502,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(505,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(508,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(511,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(514,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(517,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(520,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(523,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(526,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(529,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(532,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(535,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(538,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(541,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(544,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(547,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(550,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(553,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(556,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(559,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(562,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(565,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(568,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(571,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(574,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(577,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(580,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(583,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(586,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(589,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(592,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(595,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(598,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(601,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(604,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(607,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(610,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(613,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(616,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(619,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(622,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(625,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(628,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(631,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(634,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(637,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(640,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(643,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(646,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(649,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(652,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(655,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(662,111): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(676,40): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(676,36): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\graphics.c(730,103): warning C4244: '=': conversión de 'int64_t' a 'double'; posible pérdida de datos
+  main.c
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.h(7,1): warning C4005: 'MAX_PATH': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(60): message : vea la definición anterior de 'MAX_PATH'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(25,15): warning C4013: 'time' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(731,50): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(880,40): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(880,36): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(882,36): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(882,32): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(884,36): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(884,32): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(903,48): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(909,48): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(915,48): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(921,48): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1068,45): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+  Generando código...
+  GameInC.vcxproj -> C:\Users\ohvish\source\repos\GameInC\x64\Debug\GameInC.exe

@@ -1,0 +1,165 @@
+﻿  main.c
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.h(109,2): error C2061: error de sintaxis: identificador 'List'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.h(110,1): error C2059: error de sintaxis: '}'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.h(115,2): error C2061: error de sintaxis: identificador 'List'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.h(118,1): error C2059: error de sintaxis: '}'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(20,7): error C2061: error de sintaxis: identificador 'gScene'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(20,7): error C2059: error de sintaxis: ';'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(20,14): error C2513: ' ': no hay ninguna variable declarada antes de '='
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(175,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(175,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(175,66): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(175,67): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(176,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(176,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(177,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(177,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(178,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(178,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(179,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(179,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(180,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(180,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(182,11): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(182,12): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(184,15): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(184,16): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(191,18): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(191,19): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(191,38): warning C4022: 'memset': no coincide el puntero para el parámetro real 1
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(191,11): error C2168: 'memset': no hay suficientes parámetros reales para la función intrínseca
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(291,57): warning C4047: 'función': 'LPDWORD' es distinto en los niveles de direccionamiento indirecto de 'DWORD'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(291,48): warning C4024: 'ReadFile': tipos distintos para el parámetro formal y el parámetro real 4
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(529,50): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,46): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,47): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,73): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,74): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,120): warning C4047: 'función': 'const BITMAPINFO *' es distinto en los niveles de direccionamiento indirecto de 'DWORD'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(611,113): warning C4024: 'StretchDIBits': tipos distintos para el parámetro formal y el parámetro real 11
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(610,18): error C2198: 'StretchDIBits': no hay suficientes argumentos para la llamada
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,42): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,43): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,77): warning C4022: 'memcpy_s': no coincide el puntero para el parámetro real 1
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,100): warning C4047: 'función': 'const rsize_t' es distinto en los niveles de direccionamiento indirecto de 'Pixel32 *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,94): warning C4024: 'memcpy_s': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,102): warning C4022: 'memcpy_s': no coincide el puntero para el parámetro real 3
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(638,25): error C2198: 'memcpy_s': no hay suficientes argumentos para la llamada
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(660,75): warning C4267: '=': conversión de 'size_t' a 'LONG'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(661,60): warning C4267: '=': conversión de 'size_t' a 'LONG'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(678,56): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(681,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(684,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(687,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(690,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(693,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(696,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(699,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(702,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(705,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(708,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(711,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(714,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(717,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(720,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(723,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(726,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(729,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(732,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(735,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(738,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(741,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(744,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(747,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(750,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(753,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(756,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(759,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(762,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(765,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(768,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(771,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(774,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(777,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(780,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(783,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(786,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(789,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(792,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(795,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(798,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(801,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(804,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(807,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(810,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(813,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(816,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(819,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(822,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(825,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(828,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(831,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(834,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(837,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(840,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(843,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(846,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(849,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(852,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(855,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(858,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(861,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(864,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(867,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(870,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(873,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(876,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(879,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(882,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(885,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(888,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(891,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(894,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(897,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(900,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(903,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(906,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(909,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(912,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(915,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(918,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(921,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(924,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(927,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(930,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(933,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(936,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(939,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(942,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(945,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(948,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(951,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(954,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(957,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(960,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(963,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(966,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(969,60): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(976,111): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(990,40): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(990,36): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(997,40): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(997,36): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(999,36): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(999,32): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1001,36): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1001,32): warning C4024: 'HeapFree': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1003,23): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1003,24): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1003,16): error C2198: 'VirtualFree': no hay suficientes argumentos para la llamada
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1059,103): warning C4244: '=': conversión de 'int64_t' a 'double'; posible pérdida de datos
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1077,57): error C2065: 'gScene': identificador no declarado
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1077,58): error C2224: el operando izquierdo de '.backBuffer' debe tener el tipo struct/union
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1077,88): error C2440: 'función': no se puede realizar la conversión de '__m128i' a '__m128i *'
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1077,82): warning C4024: '_mm_store_si128': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\ohvish\source\repos\GameInC\GameInC\main.c(1077,28): error C2168: '_mm_store_si128': no hay suficientes parámetros reales para la función intrínseca
