@@ -15,17 +15,21 @@ Game made in C Programming Language using Win32 C/C++ API in order to interact w
 
 ## Screenshots
 
+<img src="/screenshots/screenshot1.png"  alt="screenshot">
+<img src="/screenshots/screenshot2.png"  alt="screenshot">
 
-## Upcoming updates
 
 * Add sound effects.
 * Add music.
 * Add title screen.
+
+## Releases
+
+There are not releases yet!
 
 ## Future work
 
 * Increase performance.
 * Port game to GNU/Linux.
 * Add multiplayer version.
-
 
